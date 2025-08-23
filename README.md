@@ -30,6 +30,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8.svg?logo=tauri&logoColor=black">
 </p>
 
 ### stats
