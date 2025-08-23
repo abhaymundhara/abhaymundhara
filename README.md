@@ -1,6 +1,6 @@
-<h1 align="center">hey, i'm Sneha 👋</h1>
+<h1 align="center">hey, i'm Abhay 👋</h1>
 <p align="center">
-  HR @ Team Geek Solutions • crafting clean, edge voice-AI tools • dev-experience obsessed
+  crafting clean, edge voice-AI tools • dev-experience obsessed
 </p>
 
 ### tl;dr
