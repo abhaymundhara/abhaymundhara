@@ -1,23 +1,27 @@
 <h1 align="center">hey, i'm Abhay 👋</h1>
+
 <p align="center">
-  I spend a good chunk of my time coding, tinkering, and building side projects that scratch an itch.  
-  My interests range from **system design** and **agentic AI** to **dev-tooling** and **micro-UI utilities**.  
+  I spend a good chunk of my time coding, tinkering, and building side projects that scratch an itch.<br>
+  My interests range from <b>system design</b> and <b>agentic AI</b> to <b>dev-tooling</b> and <b>micro-UI utilities</b>.<br>
   Always learning, always shipping.
 </p>
 
 ### tl;dr
+
 - 💻 Code almost every day — from quick experiments to long-term projects  
 - 🤖 Focused on offline-first AI tools, system-level utilities, and clean developer experience  
 - 🌱 Exploring Rust & Go for performance, Python for ML/AI, and TypeScript for modern web/dev tools  
 - ⚡ Believe in fast iteration: start small, testable, and expand  
 
 ### projects
+
 | Project | About |
-|---------|-------|
+|--------|-------|
 | **[ChatDock](https://github.com/abhaymundhara/ChatDock)** | A minimal, always-on-top AI chat bar for your desktop that survives in the background until summoned—built for local AI access. |
-| **[Termi](https://github.com/abhaymundhara/Termi)** | local‑LLM powered terminal copilot that turns natural language into safe shell commands. |
+| **[Termi](https://github.com/abhaymundhara/Termi)** | Local‑LLM powered terminal copilot that turns natural language into safe shell commands. |
 
 ### stack
+
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-5-E34F26.svg?logo=html5&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
@@ -35,13 +39,18 @@
 </p>
 
 ### stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaymundhara&show_icons=true&theme=radical&hide_border=true" alt="Abhay's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhaymundhara&show_icons=true&theme=radical&hide_border=true"
+    alt="Abhay's GitHub stats"
+  />
 </p>
 
 ### connect
--  LinkedIn: https://www.linkedin.com/in/abhay-mundhara-b86aa8262/
--  Email: abhay.mundhara@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/abhay-mundhara-b86aa8262/  
+- Email: abhay.mundhara@gmail.com  
 
 <p align="center">
   <sub>psst… always up for a chat about systems, AI, or dev-tools.</sub>
