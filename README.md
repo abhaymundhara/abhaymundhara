@@ -13,12 +13,6 @@
 - 🌱 Exploring Rust & Go for performance, Python for ML/AI, and TypeScript for modern web/dev tools  
 - ⚡ Believe in fast iteration: start small, testable, and expand  
 
-### projects
-
-| Project | About |
-|--------|-------|
-| **[ChatDock](https://github.com/abhaymundhara/ChatDock)** | A minimal, always-on-top AI chat bar for your desktop that survives in the background until summoned—built for local AI access. |
-| **[Termi](https://github.com/abhaymundhara/Termi)** | Local‑LLM powered terminal copilot that turns natural language into safe shell commands. |
 
 ### stack
 
