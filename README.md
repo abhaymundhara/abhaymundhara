@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm Abhay 👋</h1>
+<h1 align="center">hey, i'm Abhay 👋</h1> ![](https://komarev.com/ghpvc/?username=abhaymundhara&color=blue)
 
 <p align="center">
   I spend a good chunk of my time coding, tinkering, and building side projects that scratch an itch.<br>
